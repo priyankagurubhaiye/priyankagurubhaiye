@@ -27,16 +27,6 @@ I specialize in combining **automation + AI** to build intelligent QA systems th
 
 ---
 
-### ⚙️ AI QA Automation Framework
-
-🔗 https://github.com/priyankagurubhaiye/ai-qa-automation-framework
-
-* AI-powered test case generation engine
-* Structured for integration with Selenium/Playwright
-* Focus on intelligent test automation design
-
----
-
 ### 🧠 (Upcoming) AI Bug Analysis Agent
 
 * Analyze logs and defects using AI
